@@ -1,4 +1,4 @@
-# PSTAKE-NATIVE
+# PSTAKE-NATIVE  
 
 Welcome to the Pstake's (Cosmos) Liquid Staking Platform repository! This repository contains the source code and resources
 for `pstake-native`, a system for liquid-staking tokens on the Persistence blockchain.
